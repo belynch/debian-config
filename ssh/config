@@ -1,0 +1,4 @@
+Host *.example.net
+  ForwardAgent yes
+  IdentityFile ~/.ssh/id_rsa
+  User example.username
